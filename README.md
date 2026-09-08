@@ -78,4 +78,4 @@ As expected, the model performs very well on visually distinct classes (Trouser,
 
 ## Notes
 
-AI (Claude) was used to help add explanatory comments throughout the notebook and assisted in writing a few lines of code (e.g. the confusion matrix and classification report sections).
+AI was used to help add explanatory comments throughout the notebook and assisted in writing a few lines of code.
